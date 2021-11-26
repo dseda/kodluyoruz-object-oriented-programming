@@ -16,4 +16,4 @@ Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.
 
 Aşağıdaki diagramda üniversite yönetim sistemi tasvir edilmiştir.
 
-![uni-mng-sys.png]
+![UML Diagram](uni-mng-sys.png)
