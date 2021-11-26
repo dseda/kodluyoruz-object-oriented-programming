@@ -1,1 +1,0 @@
-# Kodluyoruz Object Oriented Programming
